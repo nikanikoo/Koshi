@@ -1,2 +1,2 @@
 # Koshi
-My old discord bot
+Discord Bot on Discord.py
